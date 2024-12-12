@@ -19,6 +19,6 @@ Note that you may need to use C++17 Language Standard and also update C++ Prepro
 Please make sure you can run Mockturle, Gurobi, and Z3 before using our scheduler.
 
 ## Run
-To appy the scheduler on an XMG netlist (.v / .bliff / .aig file), please put the name of the file in benchmarks.txt (you can optionally add the bound for the netlist).
+To apply the scheduler on an XMG netlist (.v / .bliff / .aig file), please put the name of the file in benchmarks.txt (you can optionally add the bound for the netlist).
 
 An example of int2float benchmark can be found in the files.
