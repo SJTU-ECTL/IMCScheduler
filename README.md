@@ -1,5 +1,5 @@
 # IMCScheduler
-SIMD IMC scheduler target at minimizing memory footprint
+SIMD IMC scheduler targets at minimizing memory footprint
 
 ## Dependencies
 In order to use the scheduler, you will need a Windows machine with the following three tools:
